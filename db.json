@@ -1,1 +1,53 @@
 
+{
+ "items":[
+    {
+        "id":1,
+        "title":"Pants",
+        "price":2400,
+        "description":"This is very beautifull pants.Dont think, just buy it! ",
+        "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fkachorovska.com%2Fsale%2Fshtani-satinovi-chorni&psig=AOvVaw0x0TupR_DUV-B_47WCMZSK&ust=1734261240306000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOD_v9uQp4oDFQAAAAAdAAAAABAE"
+    },
+ 
+    {
+        "id":2,
+        "title":"dress",
+        "price":3000,
+        "description":"This is very comfoutarble dress! ",
+        "img":"https://www.google.com/imgres?q=dress&imgurl=https%3A%2F%2Fbillyj.com.au%2Fcdn%2Fshop%2Ffiles%2FL4A9522_8dc54ab5-d375-4845-9c56-d84205d6f6cc_1024x1024.jpg%3Fv%3D1725330428&imgrefurl=https%3A%2F%2Fbillyj.com.au%2Fproducts%2Filana-maxi-dress-black&docid=JY-qC-BKS8wlAM&tbnid=0VnuBqmUPHqrsM&vet=12ahUKEwjrndX6kqeKAxVKR_EDHaEhEugQM3oECBwQAA..i&w=576&h=1024&hcb=2&ved=2ahUKEwjrndX6kqeKAxVKR_EDHaEhEugQM3oECBwQAA"
+    },
+
+    {
+        "id":3,
+        "title":"skirt",
+        "price":1500,
+        "description":"Stylish black skirt ",
+        "img":"https://www.google.com/imgres?q=skirt&imgurl=https%3A%2F%2Fimages-eu.ssl-images-amazon.com%2Fimages%2FI%2F41b5pAkD7PL._AC_SR462%2C693_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.eg%2F-%2Fen%2FBurkini-WaterProof-Fabric-Skirt-Girls%2Fdp%2FB0D267GVLY&docid=clVXa8FuKXnMKM&tbnid=Xfc-8nSX4Jb2BM&vet=12ahUKEwjM0MmLk6eKAxUNJhAIHaVeLtEQM3oECF4QAA..i&w=462&h=693&hcb=2&ved=2ahUKEwjM0MmLk6eKAxUNJhAIHaVeLtEQM3oECF4QAA"
+    },
+
+    {
+        "id":3,
+        "title":"",
+        "price":1500,
+        "description":"",
+        "img":""
+    },
+
+    {
+        "id":3,
+        "title":"",
+        "price":1500,
+        "description":"",
+        "img":""
+    },
+
+    {
+        "id":3,
+        "title":"",
+        "price":1500,
+        "description":"",
+        "img":""
+    }
+ ]
+}
+
